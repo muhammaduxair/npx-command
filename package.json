@@ -1,0 +1,23 @@
+{
+  "name": "npx-command",
+  "version": "1.0.0",
+  "description": "Testing npx command",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammaduxair/npx-command.git"
+  },
+  "keywords": [
+    "NPX"
+  ],
+  "author": "Muhammad Uzair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammaduxair/npx-command/issues"
+  },
+  "homepage": "https://github.com/muhammaduxair/npx-command#readme"
+}
